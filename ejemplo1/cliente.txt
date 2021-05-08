@@ -1,0 +1,2 @@
+cliente estrella: Juan Palotes
+cliente medio medio: 'Pablo Palotes'
